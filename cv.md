@@ -1,7 +1,7 @@
 
 # **Maxim Novikov**
 ###### Junior Front-end developer (opened to work)
-<img src="https://scontent.fmsq1-1.fna.fbcdn.net/v/t1.0-9/118881956_10207584663812636_224423668226504849_n.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=w6lJ8_pmtKIAX-hbsOD&_nc_ht=scontent.fmsq1-1.fna&oh=fd90e4b5ae0ba2ef4b82bebbc36e4479&oe=5F78CEFA" width="300"  style="margin: 10px 50px 30px 0; border-radius: 10px; border: 3px solid #ccccee; box-shadow: 6px 6px 15px 0px rgba(0,0,0,0.4); float: left;"/>
+<img src="https://scontent.fmsq1-1.fna.fbcdn.net/v/t1.0-9/118881956_10207584663812636_224423668226504849_n.jpg?_nc_cat=105&_nc_sid=09cbfe&_nc_ohc=w6lJ8_pmtKIAX-hbsOD&_nc_ht=scontent.fmsq1-1.fna&oh=fd90e4b5ae0ba2ef4b82bebbc36e4479&oe=5F78CEFA" width="250"  style="margin: 10px 50px 30px 0; border-radius: 10px; border: 3px solid #ccccee; box-shadow: 6px 6px 15px 0px rgba(0,0,0,0.4); float: left;"/>
 
 ### To contact me use:
 *[maxnovbet@gmail.com](maxnovbet@gmail.com)*
@@ -14,7 +14,7 @@ I'm very curious person an always opened for new knowledge and abilities.
 
 I don't use dictionary while speaking English, but need one sometimes.
 
-
+<div style="clear: both">
 
 ### A little about my education
 
@@ -57,3 +57,4 @@ As I sad earlier, I have to use online dictionaries for translating some words, 
 
 Hope this CV will become bigger as soon as... soon.
 
+</div>
