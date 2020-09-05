@@ -14,7 +14,7 @@ I'm very curious person an always opened for new knowledge and abilities.
 
 I don't use dictionary while speaking English, but need one sometimes.
 
-<div style="clear: both">
+<div style="clear: both"></div>
 
 ### A little about my education
 
@@ -56,5 +56,3 @@ You can see them [here](https://manovik.github.io/show-horses) (_unexisting_ hor
 As I sad earlier, I have to use online dictionaries for translating some words, but I watch many native speakers from USA, Canada (English native of course) and England. Most of them are musicians, because I like to watch music producers at work.
 
 Hope this CV will become bigger as soon as... soon.
-
-</div>
