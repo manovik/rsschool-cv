@@ -51,8 +51,20 @@ As they're all the same, I'm sure I can also use Avocode, Zeplin, etc.
 
 #### Experience and examples
 
-Unfortunately there's only a couple landings made.
-You can see them [here](https://manovik.github.io/window_practice/) (_copy of existing_ company),  [here](https://manovik.github.io/show-horses) (_unexisting_ horse club) and [here](https://manovik.github.io/show-rest) (_unexisting_ restaurant).
+
+  Unfortunately there’s only a couple of landings made. You can visit them by clicking links below:
+  - [unexisting horse club](https://manovik.github.io/show-horses),
+  - [existing company](https://manovik.github.io/window_practice/),
+  - [unexisting restaurant](https://manovik.github.io/show-rest),
+  - [pets shelter](https://rolling-scopes-school.github.io/manovik-JS2020Q3/shelter/pages/main/index.html).
+
+
+  Also you might want to look at this works:
+  - [Momentum](https://rolling-scopes-school.github.io/manovik-JS2020Q3/momentum/),
+  - [Virtual keyboard](https://rolling-scopes-school.github.io/manovik-JS2020Q3/virtual-keyboard/),
+  - [Shark](https://manovik.github.io/shark/dist/),
+  - [Calculator](https://rolling-scopes-school.github.io/manovik-JS2020Q3/calculator/).
+
 
 #### Languages
 
