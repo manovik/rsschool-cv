@@ -173,6 +173,9 @@ a {
 .footer__link-box {
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
 .footer__link {
@@ -180,3 +183,7 @@ a {
   color: #525252;
   transition: all 0.4s;
 }
+
+.footer__link svg { height: 40px; }
+
+.footer__link img { height: 40px; }
